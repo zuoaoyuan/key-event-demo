@@ -1,2 +1,2 @@
-# longest-duration-but-trivial-interactionId
-This is a demo page for showing the cases where event timing entry with the longest duration has an interactionId of value 0, so incorrectly not counted towards INP but should.
+# key-event-demo
+This is a demo page to help you test with Performance Event Timing key entries. Start typing and watch the entries log update!
